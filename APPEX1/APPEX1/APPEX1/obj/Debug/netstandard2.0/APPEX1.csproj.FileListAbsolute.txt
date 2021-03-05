@@ -1,0 +1,15 @@
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Parcial1\APPEX1\APPEX1\APPEX1\obj\Debug\netstandard2.0\APPEX1.csprojAssemblyReference.cache
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Parcial1\APPEX1\APPEX1\APPEX1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Parcial1\APPEX1\APPEX1\APPEX1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Parcial1\APPEX1\APPEX1\APPEX1\obj\Debug\netstandard2.0\TabbedPage1.xaml.g.cs
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Parcial1\APPEX1\APPEX1\APPEX1\obj\Debug\netstandard2.0\APPEX1.AssemblyInfoInputs.cache
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Parcial1\APPEX1\APPEX1\APPEX1\obj\Debug\netstandard2.0\APPEX1.AssemblyInfo.cs
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Parcial1\APPEX1\APPEX1\APPEX1\obj\Debug\netstandard2.0\APPEX1.csproj.CoreCompileInputs.cache
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Parcial1\APPEX1\APPEX1\APPEX1\bin\Debug\netstandard2.0\APPEX1.deps.json
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Parcial1\APPEX1\APPEX1\APPEX1\bin\Debug\netstandard2.0\APPEX1.dll
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Parcial1\APPEX1\APPEX1\APPEX1\bin\Debug\netstandard2.0\ref\APPEX1.dll
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Parcial1\APPEX1\APPEX1\APPEX1\bin\Debug\netstandard2.0\APPEX1.pdb
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Parcial1\APPEX1\APPEX1\APPEX1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Parcial1\APPEX1\APPEX1\APPEX1\obj\Debug\netstandard2.0\APPEX1.dll
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Parcial1\APPEX1\APPEX1\APPEX1\obj\Debug\netstandard2.0\ref\APPEX1.dll
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Parcial1\APPEX1\APPEX1\APPEX1\obj\Debug\netstandard2.0\APPEX1.pdb

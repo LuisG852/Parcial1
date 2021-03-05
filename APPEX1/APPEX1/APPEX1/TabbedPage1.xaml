@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="APPEX1.TabbedPage1">
+    <!--Pages can be added as references or inline-->
+    <ContentPage Title="Tab 1" >
+        <StackLayout >
+            
+            <Label 
+                Text="Adivinar fecha de Cumpleaños"
+                FontAttributes="Bold"
+                FontSize="30"
+                HorizontalTextAlignment="Center"
+                                            />
+            <Label 
+                Text="Piensa en tu fecha de cumpleaños"
+                HorizontalTextAlignment="Center"
+                                            />
+            <Label 
+                Text="Ahora multiplicalo por 20"
+                HorizontalTextAlignment="Center"
+                                            />
+            <Label 
+                Text="Al resultado sumale 73"
+                HorizontalTextAlignment="Center"
+                                            />
+            <Label 
+                Text="Al resultado multiplicalo por 5"
+                HorizontalTextAlignment="Center"
+                                            />
+            <Label 
+                Text="Ahora sumale la fecha del mes de tu cumpleaños"
+                HorizontalTextAlignment="Center"
+                                            />
+           
+            <Entry Margin="15,15,15,10"
+                   Placeholder="Ingresa el resultado"
+                   x:Name="en1"
+                   HorizontalOptions="Center"
+                   VerticalOptions="Center"/>
+            
+            <Button Margin="15,15,15,15"
+                    HorizontalOptions="Center"
+                    VerticalOptions="Center"
+                    Text="Adivinar" Clicked="B1" />
+
+        </StackLayout>
+    </ContentPage>
+    
+
+
+    <ContentPage Title="Tab 2" >
+        
+        <StackLayout >
+            <Label 
+                Text="Adivinar el numero que estas pensando"
+                FontAttributes="Bold"
+                FontSize="30"
+                HorizontalTextAlignment="Center"
+                                            />
+            <Label 
+                Text="Piensa en un numero"
+                HorizontalTextAlignment="Center"
+                                            />
+            <Label 
+                Text="Ahora multiplicalo por 2"
+                HorizontalTextAlignment="Center"
+                                            />
+            <Label 
+                Text="Al resultado suale 8"
+                HorizontalTextAlignment="Center"
+                                            />
+            <Label 
+                Text="Ahora multiplicalo por 5"
+                HorizontalTextAlignment="Center"
+                                            />
+            <Label 
+                Text="Por ultimo escribe tu resultado"
+                HorizontalTextAlignment="Center"
+                                            />
+            <Entry Margin="15,15,15,10"
+                   Placeholder="Ingresa el resultado"
+                   x:Name="en2"
+                   HorizontalOptions="Center"
+                   VerticalOptions="Center"/>
+            
+            <Button Margin="15,15,15,15"
+                    HorizontalOptions="Center"
+                    VerticalOptions="Center"
+                    Text="Adivinar" Clicked="B2" />
+            </StackLayout>
+    </ContentPage>
+</TabbedPage>
